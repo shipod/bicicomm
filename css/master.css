@@ -58,3 +58,17 @@ article {
   color: white;
 
 }
+footer {
+  display: flex;
+  align-self: center;
+  justify-content: space-around;
+  height: 80px;
+  background-color: rgba(1, 1, 1, 0.5);
+  width: 100%;
+}
+
+footer a{
+  margin: 30px 0px 30px 0px;
+  text-transform: uppercase;
+  color: white;
+}

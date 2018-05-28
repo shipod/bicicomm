@@ -74,4 +74,9 @@ footer a{
   margin: 30px 0px 30px 0px;
   text-transform: uppercase;
   color: white;
+
+}
+
+footer a:hover{
+	color: white;
 }
